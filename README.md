@@ -2,7 +2,11 @@
 
 ## Preview Tampilan
 
-![Preview Aplikasi Surat dalam Botol](./Assets/image.png)
+![Preview Aplikasi Surat dalam Botol versi pengguna anonim](./Assets/image.png)
+![Preview Aplikasi Surat dalam Botol versi pengguna login](./Assets/Tania.png)
+![Preview Halaman Login](./Assets/login.png)
+![Preview Halaman Register](./Assets/register.png)
+![Seluruh data percakapan dan akun akan disimpan disini](./Assets/json.png)
 
 ---
 
@@ -43,12 +47,7 @@ Backend aplikasi ini dibangun menggunakan **Express.js**, sementara frontend men
 ---
 
 ## Struktur Proyek
-surat-dalam-botol/
-├── backend/ # Backend dengan Express.js
-├── frontend/ # Frontend dengan React.js
-├── README.md # Dokumentasi proyek ini
-└── Assets/
-  └── image.png # Preview tampilan aplikasi
+![Preview Aplikasi Surat dalam Botol](./Assets/structure.png)
 
 ---
 

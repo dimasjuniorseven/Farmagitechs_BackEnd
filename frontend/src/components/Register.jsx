@@ -81,7 +81,7 @@ const Register = ({ goLogin }) => {
     if (success) {
       setSuccess(`✅ Akun "${form.username}" berhasil dibuat. Mengarahkan ke login dalam ${countdown} detik...`);
     }
-  }, [countdown]);
+  }, [countdown, form.username, success]);
 
   return (
     <div className="auth-container">
