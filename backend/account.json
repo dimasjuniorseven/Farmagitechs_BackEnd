@@ -1,12 +1,17 @@
 [
   {
     "id": 1,
-    "username": "@Dimas Oktavian Prasetyo Wira Anggaraksa",
+    "username": "@DimasOktavianPrasetyoWiraAnggaraksa",
     "password": "$2b$10$mM0NlE2mrGZ3YhZeMByK/e3nUDig.KZ8tlDwdTjA8vLMa/jJGzurK"
   },
   {
     "id": 2,
-    "username": "@Tania Anastasia",
+    "username": "@TaniaAnastasia",
     "password": "$2b$10$ETBvBpOwQP/dkarUoDMqXe1SOhTogEGeBw.xmLeyN4yGWiJFNJtpC"
+  },
+  {
+    "id": 3,
+    "username": "@YohanaNadea",
+    "password": "$2b$10$YiE.DujOUarT6Lgl69AUTuAdIGzlWE8xvC72w.7fTQGLhu0/sCLoa"
   }
 ]

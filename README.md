@@ -3,9 +3,14 @@
 ## Preview Tampilan
 
 ![Preview Aplikasi Surat dalam Botol versi pengguna anonim](./Assets/image.png)
-![Preview Aplikasi Surat dalam Botol versi pengguna login](./Assets/Tania.png)
-![Preview Halaman Login](./Assets/login.png)
-![Preview Halaman Register](./Assets/register.png)
+![Preview Aplikasi Surat dalam Botol versi pengguna anonim](./Assets/image2.png)
+<p align="center">
+  <img src="./Assets/Tania.png" alt="Preview Aplikasi" width="350" style="margin-right: 20px;"/>
+  <img src="./Assets/login.png" alt="Halaman Login" width="410" style="margin-right: 20px;"/>
+  <img src="./Assets/register.png" alt="Halaman Register" width="410"/>
+</p>
+
+
 ![Seluruh data percakapan dan akun akan disimpan disini](./Assets/json.png)
 
 ---
